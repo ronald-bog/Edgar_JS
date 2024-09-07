@@ -58,4 +58,3 @@ const resultado = suma(10, 20, 30);
 
 console.log(resultado);
 
-// Funciones Expresivas: NO HOISTED, Anonimas
