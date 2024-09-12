@@ -25,5 +25,3 @@ numeros.forEach((ele, index, arreglo) => {
     console.log(index);
     console.log(arreglo);
 });
-
-// map: es igual a forEach la unica diferencia es que si retorna un nuevo array
